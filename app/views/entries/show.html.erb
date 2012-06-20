@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Initial:</b>
+  <%= @entry.initial %>
+</p>
+
+<p>
+  <b>Final:</b>
+  <%= @entry.final %>
+</p>
+
+
+<%= link_to 'Edit', edit_entry_path(@entry) %> |
+<%= link_to 'Back', entries_path %>

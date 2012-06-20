@@ -1,0 +1,46 @@
+<h2>Editar Suas informações</h2>
+
+<%= form_for(resource, :as => resource_name, :url => registration_path(resource_name), :html => { :method => :put }) do |f| %>
+  <%= devise_error_messages! %>
+
+  <div><%= f.label :email %><br />
+  <%= f.email_field :email %></div>
+
+  <div><%= f.label "CPF" %><br />
+  <%= f.text_field :cpf %></div>
+
+  <div><%= f.label "Telefone" %><br />
+  <%= f.text_field :telephone %></div>
+
+  <div><%= f.label  "Celular" %><br />
+  <%= f.text_field :mobile %></div>
+
+  <div><%= f.label "Endereço" %><br />
+  <%= f.text_field :address %></div>
+
+  <div><%= f.label "Matrícula" %><br />
+  <%= f.text_field :matricula %></div>
+
+  <div><%= f.label :curso %><br />
+  <%= f.text_field :curso %></div>
+
+  <div><%= f.label "Área" %><br />
+  <%= f.text_field :area %></div>
+
+  <div><%= f.label :password %> <i>(deixe em branco se você não deseja mudá-lo)</i><br />
+  <%= f.password_field :password %></div>
+
+  <div><%= f.label :password_confirmation %><br />
+  <%= f.password_field :password_confirmation %></div>
+
+  <div><%= f.label :current_password %> <i>(precisamos de sua senha atual para confirmar suas alterações)</i><br />
+  <%= f.password_field :current_password %></div>
+
+  <div><%= f.submit "Atualizar" %></div>
+<% end %>
+
+<h3>Cancelar minha conta</h3>
+
+<p>Unhappy? <%= link_to "Cancelar minha conta", registration_path(resource_name), :confirm => "Você tem certeza?", :method => :delete %>.</p>
+
+<%= link_to "Voltar", :back %>
