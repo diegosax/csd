@@ -5,6 +5,11 @@ class SessionsController < Devise::SessionsController
 
   # GET /resource/sign_in
   def new
+      puts "HEUAHEUAHEUAHEUAHEUAHEUAHEUAHEAUH"
+         puts "HEUAHEUAHEUAHEUAHEUAHEUAHEUAHEAUH"
+         puts "HEUAHEUAHEUAHEUAHEUAHEUAHEUAHEAUH"
+         puts "HEUAHEUAHEUAHEUAHEUAHEUAHEUAHEAUH"
+         puts "HEUAHEUAHEUAHEUAHEUAHEUAHEUAHEAUH"
     resource = build_resource(nil, :unsafe => true)
     clean_up_passwords(resource)
     respond_with(resource, serialize_options(resource))

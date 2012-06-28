@@ -32517,3 +32517,3872 @@ ActionController::RoutingError (No route matches [GET] "/images/favicon.ico"):
   
 
 Rendered /Users/franzejr/.rvm/gems/ruby-1.9.2-p320@rails3.1/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-06-28 08:07:06 -0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (28.5ms)
+Completed 200 OK in 345ms (Views: 344.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:06 -0300
+Served asset /application.css - 304 Not Modified (7ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:06 -0300
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:06 -0300
+Served asset /active_admin.css - 304 Not Modified (20ms)
+
+
+Started GET "/assets/entries.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /entries.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /scaffolds.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /home.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery.ui.core.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.ui.core.css - 304 Not Modified (27ms)
+
+
+Started GET "/assets/jquery.ui.theme.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.ui.theme.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.ui.accordion.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.ui.accordion.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.ui.autocomplete.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery.ui.button.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.ui.button.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.ui.datepicker.css - 304 Not Modified (7ms)
+
+
+Started GET "/assets/jquery.ui.dialog.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.ui.dialog.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.ui.progressbar.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.ui.resizable.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.ui.resizable.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery.ui.selectable.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.ui.selectable.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.ui.slider.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.ui.slider.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.ui.tabs.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.ui.tabs.css - 304 Not Modified (7ms)
+
+
+Started GET "/assets/jquery.ui.base.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.ui.base.css - 304 Not Modified (9ms)
+
+
+Started GET "/assets/jquery.ui.all.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.ui.all.css - 304 Not Modified (10ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.js - 304 Not Modified (47ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery_ujs.js - 304 Not Modified (33ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /twitter/bootstrap/bootstrap-transition.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /twitter/bootstrap/bootstrap-alert.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /twitter/bootstrap/bootstrap-modal.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /twitter/bootstrap/bootstrap-tab.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /twitter/bootstrap/bootstrap-popover.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /twitter/bootstrap/bootstrap-button.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /twitter/bootstrap.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery-ui.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /active_admin/application.js - 304 Not Modified (27ms)
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /active_admin/base.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /active_admin.js - 304 Not Modified (8ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /bootstrap.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/entries.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /entries.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /home.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/idle-timeout.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /idle-timeout.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.effects.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.effects.core.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.effects.blind.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.effects.blind.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.effects.bounce.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.effects.bounce.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.effects.clip.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.effects.clip.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.effects.drop.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.effects.drop.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.effects.explode.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.effects.explode.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.effects.fade.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.effects.fade.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery.effects.fold.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.effects.fold.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.effects.highlight.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.effects.highlight.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.effects.pulsate.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.effects.pulsate.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.effects.scale.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.effects.scale.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.effects.shake.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.effects.shake.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.effects.slide.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.effects.slide.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.effects.transfer.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:07 -0300
+Served asset /jquery.effects.transfer.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.ui.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:08 -0300
+Served asset /jquery.ui.core.js - 304 Not Modified (8ms)
+
+
+Started GET "/assets/jquery.ui.widget.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:08 -0300
+Served asset /jquery.ui.widget.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.ui.accordion.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:08 -0300
+Served asset /jquery.ui.accordion.js - 304 Not Modified (10ms)
+
+
+Started GET "/assets/jquery.ui.position.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:08 -0300
+Served asset /jquery.ui.position.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:08 -0300
+Served asset /jquery.ui.autocomplete.js - 304 Not Modified (8ms)
+
+
+Started GET "/assets/jquery.ui.button.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:08 -0300
+Served asset /jquery.ui.button.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:08 -0300
+Served asset /jquery.ui.datepicker.js - 304 Not Modified (11ms)
+
+
+Started GET "/assets/jquery.ui.dialog.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:08 -0300
+Served asset /jquery.ui.dialog.js - 304 Not Modified (16ms)
+
+
+Started GET "/assets/jquery.ui.mouse.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:08 -0300
+Served asset /jquery.ui.mouse.js - 304 Not Modified (11ms)
+
+
+Started GET "/assets/jquery.ui.draggable.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:08 -0300
+Served asset /jquery.ui.draggable.js - 304 Not Modified (10ms)
+
+
+Started GET "/assets/jquery.ui.droppable.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:08 -0300
+Served asset /jquery.ui.droppable.js - 304 Not Modified (13ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:08 -0300
+Served asset /jquery.ui.progressbar.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/jquery.ui.resizable.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:08 -0300
+Served asset /jquery.ui.resizable.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/jquery.ui.selectable.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:08 -0300
+Served asset /jquery.ui.selectable.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/jquery.ui.slider.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:08 -0300
+Served asset /jquery.ui.slider.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.ui.sortable.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:08 -0300
+Served asset /jquery.ui.sortable.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.ui.tabs.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:08 -0300
+Served asset /jquery.ui.tabs.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.ui.all.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:08 -0300
+Served asset /jquery.ui.all.js - 304 Not Modified (17ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:08 -0300
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/images/favicon.ico" for 127.0.0.1 at 2012-06-28 08:07:08 -0300
+
+ActionController::RoutingError (No route matches [GET] "/images/favicon.ico"):
+  
+
+Rendered /Users/franzejr/.rvm/gems/ruby-1.9.2-p320@rails3.1/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+  Processing by Devise::SessionsController#new as HTML
+Rendered devise/shared/_links.erb (2.0ms)
+Rendered devise/sessions/new.html.erb within layouts/application (33.9ms)
+Completed 200 OK in 143ms (Views: 79.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /application.css - 304 Not Modified (16ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /active_admin.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/entries.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /entries.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.core.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.ui.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.theme.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.ui.theme.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.accordion.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.ui.accordion.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.ui.autocomplete.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.button.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.ui.button.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.ui.datepicker.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.dialog.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.ui.dialog.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.ui.progressbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.resizable.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.ui.resizable.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.selectable.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.ui.selectable.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.slider.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.ui.slider.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.tabs.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.ui.tabs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.base.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.ui.base.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.ui.all.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.ui.all.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /twitter/bootstrap/bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /twitter/bootstrap/bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /twitter/bootstrap/bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /twitter/bootstrap/bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /twitter/bootstrap/bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /twitter/bootstrap/bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /twitter/bootstrap.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /active_admin/application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /active_admin/base.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /active_admin.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/entries.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /entries.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/idle-timeout.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /idle-timeout.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.effects.core.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.blind.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.effects.blind.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.bounce.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.effects.bounce.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.clip.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.effects.clip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.drop.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.effects.drop.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.explode.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.effects.explode.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.fade.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.effects.fade.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.fold.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.effects.fold.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.highlight.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:17 -0300
+Served asset /jquery.effects.highlight.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.pulsate.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.effects.pulsate.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.scale.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.effects.scale.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.shake.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.effects.shake.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.slide.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.effects.slide.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.transfer.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.effects.transfer.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.ui.core.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.widget.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.ui.widget.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.accordion.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.ui.accordion.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.position.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.ui.position.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.ui.autocomplete.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.button.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.ui.button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.ui.datepicker.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.dialog.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.ui.dialog.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.mouse.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.ui.mouse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.draggable.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.ui.draggable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.droppable.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.ui.droppable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.ui.progressbar.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.resizable.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.ui.resizable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.selectable.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.ui.selectable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.slider.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.ui.slider.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.sortable.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.ui.sortable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.tabs.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.ui.tabs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.all.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /jquery.ui.all.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/users/images/favicon.ico" for 127.0.0.1 at 2012-06-28 08:07:18 -0300
+
+ActionController::RoutingError (No route matches [GET] "/users/images/favicon.ico"):
+  
+
+Rendered /Users/franzejr/.rvm/gems/ruby-1.9.2-p320@rails3.1/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+  Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"KUKJNv5RdlOeLCfqixyc7KnODQFBvItZAKZ/EJmBY4k=", "user"=>{"email"=>"franzejr3@gmail.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Sign in"}
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."email" = 'franzejr3@gmail.com' LIMIT 1[0m
+  [1m[35m (0.2ms)[0m  SELECT MAX("audits"."version") AS max_id FROM "audits" WHERE "audits"."auditable_id" = 1 AND "audits"."auditable_type" = 'User'
+Binary data inserted for `string` type on column `remote_address`
+  [1m[36mSQL (33.8ms)[0m  [1mINSERT INTO "audits" ("action", "associated_id", "associated_type", "auditable_id", "auditable_type", "audited_changes", "comment", "created_at", "remote_address", "user_id", "user_type", "username", "version") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["action", "update"], ["associated_id", nil], ["associated_type", nil], ["auditable_id", 1], ["auditable_type", "User"], ["audited_changes", "---\nlast_sign_in_at:\n- 2012-06-28 10:52:12.342281000Z\n- 2012-06-28 10:53:48.646533000Z\ncurrent_sign_in_at:\n- 2012-06-28 10:53:48.646533000Z\n- 2012-06-28 11:07:26.216898000Z\nsign_in_count:\n- 6\n- 7\n"], ["comment", nil], ["created_at", Thu, 28 Jun 2012 11:07:26 UTC +00:00], ["remote_address", "127.0.0.1"], ["user_id", 1], ["user_type", "User"], ["username", nil], ["version", 8]]
+  [1m[35m (0.1ms)[0m  UPDATE "users" SET "last_sign_in_at" = '2012-06-28 10:53:48.646533', "current_sign_in_at" = '2012-06-28 11:07:26.216898', "sign_in_count" = 7, "updated_at" = '2012-06-28 11:07:26.393985' WHERE "users"."id" = 1
+Redirected to http://localhost:3000/
+Completed 302 Found in 387ms
+
+
+Started GET "/" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (0.1ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1[0m
+Completed 200 OK in 110ms (Views: 109.3ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /application.css - 304 Not Modified (50ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /active_admin.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/entries.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /entries.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.core.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /jquery.ui.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.theme.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /jquery.ui.theme.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.accordion.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /jquery.ui.accordion.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /jquery.ui.autocomplete.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.button.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /jquery.ui.button.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /jquery.ui.datepicker.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.dialog.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /jquery.ui.dialog.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /jquery.ui.progressbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.resizable.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /jquery.ui.resizable.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.selectable.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /jquery.ui.selectable.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.slider.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /jquery.ui.slider.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.tabs.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /jquery.ui.tabs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.base.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /jquery.ui.base.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.ui.all.css?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /jquery.ui.all.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /twitter/bootstrap/bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /twitter/bootstrap/bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /twitter/bootstrap/bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:26 -0300
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /twitter/bootstrap/bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /twitter/bootstrap/bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /twitter/bootstrap/bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /twitter/bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /active_admin/application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /active_admin/base.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /active_admin.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/entries.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /entries.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/idle-timeout.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /idle-timeout.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.effects.core.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.blind.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.effects.blind.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.bounce.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.effects.bounce.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.clip.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.effects.clip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.drop.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.effects.drop.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.explode.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.effects.explode.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.fade.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.effects.fade.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.fold.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.effects.fold.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.highlight.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.effects.highlight.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.pulsate.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.effects.pulsate.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.scale.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.effects.scale.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.shake.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.effects.shake.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.slide.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.effects.slide.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.transfer.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.effects.transfer.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.ui.core.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.widget.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.ui.widget.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.accordion.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.ui.accordion.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.position.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.ui.position.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.ui.autocomplete.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.button.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.ui.button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.ui.datepicker.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.dialog.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.ui.dialog.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.mouse.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.ui.mouse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.draggable.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.ui.draggable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.droppable.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.ui.droppable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.ui.progressbar.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.resizable.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.ui.resizable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.selectable.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.ui.selectable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.slider.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.ui.slider.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.sortable.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.ui.sortable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.tabs.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.ui.tabs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.all.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /jquery.ui.all.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+Served asset /application.js - 304 Not Modified (5ms)
+
+
+Started GET "/images/favicon.ico" for 127.0.0.1 at 2012-06-28 08:07:27 -0300
+
+ActionController::RoutingError (No route matches [GET] "/images/favicon.ico"):
+  
+
+Rendered /Users/franzejr/.rvm/gems/ruby-1.9.2-p320@rails3.1/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2012-06-28 08:08:27 -0300
+  Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"KUKJNv5RdlOeLCfqixyc7KnODQFBvItZAKZ/EJmBY4k="}
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+Redirected to http://localhost:3000/
+Completed 302 Found in 100ms
+
+
+Started GET "/" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 60ms (Views: 59.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /application.css - 304 Not Modified (10ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /active_admin.css - 304 Not Modified (9ms)
+
+
+Started GET "/assets/entries.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /entries.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.core.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.ui.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.theme.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.ui.theme.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.accordion.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.ui.accordion.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.ui.autocomplete.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.button.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.ui.button.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.ui.datepicker.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.dialog.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.ui.dialog.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.ui.progressbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.resizable.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.ui.resizable.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.selectable.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.ui.selectable.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.slider.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.ui.slider.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.tabs.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.ui.tabs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.base.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.ui.base.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.ui.all.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.ui.all.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /twitter/bootstrap/bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /twitter/bootstrap/bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /twitter/bootstrap/bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /twitter/bootstrap/bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /twitter/bootstrap/bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /twitter/bootstrap/bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /twitter/bootstrap.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /active_admin/application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /active_admin/base.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /active_admin.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/entries.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /entries.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/idle-timeout.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /idle-timeout.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.effects.core.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.blind.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.effects.blind.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.bounce.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.effects.bounce.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.clip.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.effects.clip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.drop.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.effects.drop.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.explode.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.effects.explode.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.fade.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.effects.fade.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.fold.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.effects.fold.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.highlight.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.effects.highlight.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.pulsate.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.effects.pulsate.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.scale.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.effects.scale.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.shake.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.effects.shake.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.slide.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:28 -0300
+Served asset /jquery.effects.slide.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.transfer.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:29 -0300
+Served asset /jquery.effects.transfer.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:29 -0300
+Served asset /jquery.ui.core.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.widget.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:29 -0300
+Served asset /jquery.ui.widget.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.accordion.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:29 -0300
+Served asset /jquery.ui.accordion.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.position.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:29 -0300
+Served asset /jquery.ui.position.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:29 -0300
+Served asset /jquery.ui.autocomplete.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.button.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:29 -0300
+Served asset /jquery.ui.button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:29 -0300
+Served asset /jquery.ui.datepicker.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.dialog.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:29 -0300
+Served asset /jquery.ui.dialog.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.mouse.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:29 -0300
+Served asset /jquery.ui.mouse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.draggable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:29 -0300
+Served asset /jquery.ui.draggable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.droppable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:29 -0300
+Served asset /jquery.ui.droppable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:29 -0300
+Served asset /jquery.ui.progressbar.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.resizable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:29 -0300
+Served asset /jquery.ui.resizable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.selectable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:29 -0300
+Served asset /jquery.ui.selectable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.slider.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:29 -0300
+Served asset /jquery.ui.slider.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.sortable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:29 -0300
+Served asset /jquery.ui.sortable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.tabs.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:29 -0300
+Served asset /jquery.ui.tabs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.all.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:29 -0300
+Served asset /jquery.ui.all.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:29 -0300
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/images/favicon.ico" for 127.0.0.1 at 2012-06-28 08:08:29 -0300
+
+ActionController::RoutingError (No route matches [GET] "/images/favicon.ico"):
+  
+
+Rendered /Users/franzejr/.rvm/gems/ruby-1.9.2-p320@rails3.1/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+  Processing by Devise::SessionsController#new as HTML
+Rendered devise/shared/_links.erb (0.7ms)
+Rendered devise/sessions/new.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 114ms (Views: 48.1ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /active_admin.css - 304 Not Modified (44ms)
+
+
+Started GET "/assets/entries.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /entries.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /application.css - 304 Not Modified (7ms)
+
+
+Started GET "/assets/jquery.ui.core.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /jquery.ui.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.theme.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /jquery.ui.theme.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.accordion.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /jquery.ui.accordion.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /jquery.ui.autocomplete.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.button.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /jquery.ui.button.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /jquery.ui.datepicker.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.dialog.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /jquery.ui.dialog.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /jquery.ui.progressbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.resizable.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /jquery.ui.resizable.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.selectable.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /jquery.ui.selectable.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.slider.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /jquery.ui.slider.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.tabs.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /jquery.ui.tabs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.base.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /jquery.ui.base.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.all.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /jquery.ui.all.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /twitter/bootstrap/bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /twitter/bootstrap/bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /twitter/bootstrap/bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /twitter/bootstrap/bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /twitter/bootstrap/bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /twitter/bootstrap/bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /twitter/bootstrap.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /active_admin/application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /active_admin/base.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /active_admin.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/entries.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:30 -0300
+Served asset /entries.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/idle-timeout.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /idle-timeout.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.effects.core.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.blind.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.effects.blind.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.bounce.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.effects.bounce.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.clip.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.effects.clip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.drop.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.effects.drop.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.explode.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.effects.explode.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.fade.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.effects.fade.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.fold.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.effects.fold.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.highlight.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.effects.highlight.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.pulsate.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.effects.pulsate.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.scale.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.effects.scale.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.shake.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.effects.shake.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.slide.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.effects.slide.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.transfer.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.effects.transfer.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.ui.core.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.widget.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.ui.widget.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.accordion.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.ui.accordion.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.position.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.ui.position.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.ui.autocomplete.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.button.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.ui.button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.ui.datepicker.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.dialog.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.ui.dialog.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.mouse.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.ui.mouse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.draggable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.ui.draggable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.droppable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.ui.droppable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.ui.progressbar.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.resizable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.ui.resizable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.selectable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.ui.selectable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.slider.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.ui.slider.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.sortable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.ui.sortable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.tabs.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.ui.tabs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.all.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /jquery.ui.all.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/users/images/favicon.ico" for 127.0.0.1 at 2012-06-28 08:08:31 -0300
+
+ActionController::RoutingError (No route matches [GET] "/users/images/favicon.ico"):
+  
+
+Rendered /Users/franzejr/.rvm/gems/ruby-1.9.2-p320@rails3.1/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-06-28 08:08:38 -0300
+  Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"mc5C6mjs5Ml3r7pqd6Jt3rKW7yWTfcg8ZVnUjq2ReRw=", "user"=>{"email"=>"franzejr3@gmail.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Sign in"}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."email" = 'franzejr3@gmail.com' LIMIT 1[0m
+  [1m[35m (0.3ms)[0m  SELECT MAX("audits"."version") AS max_id FROM "audits" WHERE "audits"."auditable_id" = 1 AND "audits"."auditable_type" = 'User'
+Binary data inserted for `string` type on column `remote_address`
+  [1m[36mSQL (1.8ms)[0m  [1mINSERT INTO "audits" ("action", "associated_id", "associated_type", "auditable_id", "auditable_type", "audited_changes", "comment", "created_at", "remote_address", "user_id", "user_type", "username", "version") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["action", "update"], ["associated_id", nil], ["associated_type", nil], ["auditable_id", 1], ["auditable_type", "User"], ["audited_changes", "---\nlast_sign_in_at:\n- 2012-06-28 10:53:48.646533000Z\n- 2012-06-28 11:07:26.216898000Z\ncurrent_sign_in_at:\n- 2012-06-28 11:07:26.216898000Z\n- 2012-06-28 11:08:39.060732000Z\nsign_in_count:\n- 7\n- 8\n"], ["comment", nil], ["created_at", Thu, 28 Jun 2012 11:08:39 UTC +00:00], ["remote_address", "127.0.0.1"], ["user_id", 1], ["user_type", "User"], ["username", nil], ["version", 9]]
+  [1m[35m (0.2ms)[0m  UPDATE "users" SET "last_sign_in_at" = '2012-06-28 11:07:26.216898', "current_sign_in_at" = '2012-06-28 11:08:39.060732', "sign_in_count" = 8, "updated_at" = '2012-06-28 11:08:39.114297' WHERE "users"."id" = 1
+Redirected to http://localhost:3000/
+Completed 302 Found in 233ms
+
+
+Started GET "/" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (0.0ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1[0m
+Completed 200 OK in 119ms (Views: 117.7ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/entries.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /entries.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /application.css - 304 Not Modified (8ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /active_admin.css - 304 Not Modified (7ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.core.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.ui.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.theme.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.ui.theme.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.accordion.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.ui.accordion.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.ui.autocomplete.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.button.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.ui.button.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.ui.datepicker.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.dialog.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.ui.dialog.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.ui.progressbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.resizable.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.ui.resizable.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.selectable.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.ui.selectable.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.slider.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.ui.slider.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.tabs.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.ui.tabs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.base.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.ui.base.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.all.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.ui.all.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /twitter/bootstrap/bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /twitter/bootstrap/bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /twitter/bootstrap/bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /twitter/bootstrap/bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /twitter/bootstrap/bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /twitter/bootstrap/bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /twitter/bootstrap.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /active_admin/application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /active_admin/base.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /active_admin.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/entries.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /entries.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/idle-timeout.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /idle-timeout.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.effects.core.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.blind.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.effects.blind.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.bounce.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.effects.bounce.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.clip.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.effects.clip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.drop.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.effects.drop.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.explode.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.effects.explode.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.fade.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.effects.fade.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.fold.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.effects.fold.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.highlight.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.effects.highlight.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.pulsate.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.effects.pulsate.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.scale.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.effects.scale.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.shake.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:39 -0300
+Served asset /jquery.effects.shake.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.slide.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:40 -0300
+Served asset /jquery.effects.slide.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.transfer.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:40 -0300
+Served asset /jquery.effects.transfer.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:40 -0300
+Served asset /jquery.ui.core.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.widget.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:40 -0300
+Served asset /jquery.ui.widget.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.accordion.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:40 -0300
+Served asset /jquery.ui.accordion.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.position.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:40 -0300
+Served asset /jquery.ui.position.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:40 -0300
+Served asset /jquery.ui.autocomplete.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.button.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:40 -0300
+Served asset /jquery.ui.button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:40 -0300
+Served asset /jquery.ui.datepicker.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.dialog.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:40 -0300
+Served asset /jquery.ui.dialog.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.mouse.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:40 -0300
+Served asset /jquery.ui.mouse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.draggable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:40 -0300
+Served asset /jquery.ui.draggable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.droppable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:40 -0300
+Served asset /jquery.ui.droppable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:40 -0300
+Served asset /jquery.ui.progressbar.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.resizable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:40 -0300
+Served asset /jquery.ui.resizable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.selectable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:40 -0300
+Served asset /jquery.ui.selectable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.slider.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:40 -0300
+Served asset /jquery.ui.slider.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.sortable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:40 -0300
+Served asset /jquery.ui.sortable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.tabs.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:40 -0300
+Served asset /jquery.ui.tabs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.all.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:40 -0300
+Served asset /jquery.ui.all.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:40 -0300
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/images/favicon.ico" for 127.0.0.1 at 2012-06-28 08:08:40 -0300
+
+ActionController::RoutingError (No route matches [GET] "/images/favicon.ico"):
+  
+
+Rendered /Users/franzejr/.rvm/gems/ruby-1.9.2-p320@rails3.1/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-06-28 08:08:52 -0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (28.6ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1[0m
+Completed 200 OK in 332ms (Views: 331.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /application.css - 304 Not Modified (8ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /active_admin.css - 304 Not Modified (11ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (33ms)
+
+
+Started GET "/assets/entries.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /entries.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /scaffolds.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /home.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.ui.core.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /jquery.ui.core.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.ui.theme.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /jquery.ui.theme.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.ui.accordion.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /jquery.ui.accordion.css - 304 Not Modified (8ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /jquery.ui.autocomplete.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery.ui.button.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /jquery.ui.button.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /jquery.ui.datepicker.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery.ui.dialog.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /jquery.ui.dialog.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /jquery.ui.progressbar.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.ui.resizable.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /jquery.ui.resizable.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery.ui.selectable.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /jquery.ui.selectable.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.ui.slider.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /jquery.ui.slider.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery.ui.tabs.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /jquery.ui.tabs.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.ui.base.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /jquery.ui.base.css - 304 Not Modified (8ms)
+
+
+Started GET "/assets/jquery.ui.all.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /jquery.ui.all.css - 304 Not Modified (10ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /jquery.js - 304 Not Modified (10ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /jquery_ujs.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /twitter/bootstrap/bootstrap-transition.js - 304 Not Modified (10ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /twitter/bootstrap/bootstrap-alert.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /twitter/bootstrap/bootstrap-modal.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /twitter/bootstrap/bootstrap-tab.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /twitter/bootstrap/bootstrap-popover.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /twitter/bootstrap/bootstrap-button.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /twitter/bootstrap.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /jquery-ui.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /active_admin/application.js - 304 Not Modified (42ms)
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /active_admin/base.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /active_admin.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /bootstrap.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/entries.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /entries.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /home.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/idle-timeout.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /idle-timeout.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.effects.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /jquery.effects.core.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery.effects.blind.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /jquery.effects.blind.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.effects.bounce.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /jquery.effects.bounce.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.effects.clip.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /jquery.effects.clip.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery.effects.drop.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:53 -0300
+Served asset /jquery.effects.drop.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.effects.explode.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.effects.explode.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.effects.fade.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.effects.fade.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.effects.fold.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.effects.fold.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.effects.highlight.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.effects.highlight.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.effects.pulsate.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.effects.pulsate.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.effects.scale.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.effects.scale.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery.effects.shake.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.effects.shake.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/jquery.effects.slide.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.effects.slide.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.effects.transfer.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.effects.transfer.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery.ui.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.ui.core.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery.ui.widget.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.ui.widget.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/jquery.ui.accordion.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.ui.accordion.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/jquery.ui.position.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.ui.position.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.ui.autocomplete.js - 304 Not Modified (8ms)
+
+
+Started GET "/assets/jquery.ui.button.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.ui.button.js - 304 Not Modified (8ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.ui.datepicker.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/jquery.ui.dialog.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.ui.dialog.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/jquery.ui.mouse.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.ui.mouse.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/jquery.ui.draggable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.ui.draggable.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/jquery.ui.droppable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.ui.droppable.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.ui.progressbar.js - 304 Not Modified (8ms)
+
+
+Started GET "/assets/jquery.ui.resizable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.ui.resizable.js - 304 Not Modified (8ms)
+
+
+Started GET "/assets/jquery.ui.selectable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.ui.selectable.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/jquery.ui.slider.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.ui.slider.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery.ui.sortable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.ui.sortable.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.ui.tabs.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.ui.tabs.js - 304 Not Modified (8ms)
+
+
+Started GET "/assets/jquery.ui.all.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /jquery.ui.all.js - 304 Not Modified (15ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:54 -0300
+Served asset /application.js - 304 Not Modified (5ms)
+
+
+Started DELETE "/users/sign_out" for 127.0.0.1 at 2012-06-28 08:08:58 -0300
+  Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"mc5C6mjs5Ml3r7pqd6Jt3rKW7yWTfcg8ZVnUjq2ReRw="}
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1
+Redirected to http://localhost:3000/
+Completed 302 Found in 79ms
+
+
+Started GET "/" for 127.0.0.1 at 2012-06-28 08:08:58 -0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 62ms (Views: 61.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /application.css - 304 Not Modified (48ms)
+
+
+Started GET "/assets/entries.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /entries.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /active_admin.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery.ui.core.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.theme.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.theme.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.accordion.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.accordion.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.autocomplete.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.button.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.button.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.datepicker.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.dialog.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.dialog.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.progressbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.resizable.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.resizable.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.selectable.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.selectable.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.slider.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.slider.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.tabs.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.tabs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.base.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.base.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.all.css?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.all.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /twitter/bootstrap/bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /twitter/bootstrap/bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /twitter/bootstrap/bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /twitter/bootstrap/bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /twitter/bootstrap/bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /twitter/bootstrap/bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /twitter/bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /active_admin/application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /active_admin/base.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /active_admin.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/entries.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /entries.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/idle-timeout.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /idle-timeout.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.effects.core.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.blind.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.effects.blind.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.bounce.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.effects.bounce.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.clip.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.effects.clip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.drop.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.effects.drop.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.explode.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.effects.explode.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.fade.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.effects.fade.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.fold.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.effects.fold.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.highlight.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.effects.highlight.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.pulsate.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.effects.pulsate.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.scale.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.effects.scale.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.shake.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.effects.shake.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.slide.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.effects.slide.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.transfer.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.effects.transfer.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.core.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.widget.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.widget.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.accordion.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.accordion.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.position.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.position.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.autocomplete.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.button.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.datepicker.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.dialog.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.dialog.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.mouse.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.mouse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.draggable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.draggable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.droppable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.droppable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.progressbar.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.resizable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.resizable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.selectable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.selectable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.slider.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.slider.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.sortable.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.sortable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.tabs.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.tabs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.all.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /jquery.ui.all.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:08:59 -0300
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/images/favicon.ico" for 127.0.0.1 at 2012-06-28 08:09:00 -0300
+
+ActionController::RoutingError (No route matches [GET] "/images/favicon.ico"):
+  
+
+Rendered /Users/franzejr/.rvm/gems/ruby-1.9.2-p320@rails3.1/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-06-28 08:09:01 -0300
+  Processing by Devise::SessionsController#new as HTML
+Rendered devise/shared/_links.erb (41.5ms)
+Rendered devise/sessions/new.html.erb within layouts/application (55.0ms)
+Completed 200 OK in 143ms (Views: 103.3ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /application.css - 304 Not Modified (15ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /active_admin.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/entries.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /entries.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.core.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.theme.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.theme.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.accordion.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.accordion.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.autocomplete.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.button.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.button.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.datepicker.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.dialog.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.dialog.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.progressbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.resizable.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.resizable.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.selectable.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.selectable.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.slider.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.slider.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.tabs.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.tabs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.base.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.base.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.ui.all.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.all.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /twitter/bootstrap/bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /twitter/bootstrap/bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /twitter/bootstrap/bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /twitter/bootstrap/bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /twitter/bootstrap/bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /twitter/bootstrap/bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /twitter/bootstrap.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /active_admin/application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /active_admin/base.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /active_admin.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/entries.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /entries.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/idle-timeout.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /idle-timeout.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.effects.core.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.blind.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.effects.blind.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.bounce.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.effects.bounce.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.clip.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.effects.clip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.drop.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.effects.drop.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.explode.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.effects.explode.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.fade.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.effects.fade.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.fold.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.effects.fold.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.highlight.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.effects.highlight.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.pulsate.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.effects.pulsate.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.scale.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.effects.scale.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.shake.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.effects.shake.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.slide.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.effects.slide.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.transfer.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.effects.transfer.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.core.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.widget.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.widget.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.accordion.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.accordion.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.position.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.position.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.autocomplete.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.button.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.datepicker.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.dialog.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.dialog.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.mouse.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.mouse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.draggable.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.draggable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.droppable.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.droppable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.progressbar.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.resizable.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.resizable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.selectable.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.selectable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.slider.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.slider.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.sortable.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.sortable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.tabs.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.tabs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.all.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /jquery.ui.all.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:02 -0300
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/users/images/favicon.ico" for 127.0.0.1 at 2012-06-28 08:09:03 -0300
+
+ActionController::RoutingError (No route matches [GET] "/users/images/favicon.ico"):
+  
+
+Rendered /Users/franzejr/.rvm/gems/ruby-1.9.2-p320@rails3.1/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-06-28 08:09:07 -0300
+  Processing by Devise::SessionsController#new as HTML
+Rendered devise/shared/_links.erb (0.7ms)
+Rendered devise/sessions/new.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 109ms (Views: 47.5ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /active_admin.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /application.css - 304 Not Modified (9ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/entries.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /entries.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.core.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.theme.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.theme.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.accordion.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.accordion.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.autocomplete.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.button.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.button.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.datepicker.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.dialog.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.dialog.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.progressbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.resizable.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.resizable.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.selectable.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.selectable.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.slider.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.slider.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.tabs.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.tabs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.base.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.base.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.all.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.all.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /twitter/bootstrap/bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /twitter/bootstrap/bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /twitter/bootstrap/bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /twitter/bootstrap/bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /twitter/bootstrap/bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /twitter/bootstrap/bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /twitter/bootstrap.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /active_admin/application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /active_admin/base.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /active_admin.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/entries.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /entries.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/idle-timeout.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /idle-timeout.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.effects.core.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.blind.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.effects.blind.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.bounce.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.effects.bounce.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.clip.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.effects.clip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.drop.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.effects.drop.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.explode.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.effects.explode.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.fade.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.effects.fade.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.fold.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.effects.fold.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.highlight.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.effects.highlight.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.pulsate.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.effects.pulsate.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.scale.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.effects.scale.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.shake.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.effects.shake.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.slide.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.effects.slide.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.transfer.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.effects.transfer.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.core.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.widget.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.widget.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.accordion.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.accordion.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.position.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.position.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.autocomplete.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.button.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.datepicker.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.dialog.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.dialog.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.mouse.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.mouse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.draggable.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.draggable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.droppable.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.droppable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.progressbar.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.resizable.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.resizable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.sortable.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.sortable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.selectable.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.selectable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.slider.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.slider.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.tabs.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.tabs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.all.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /jquery.ui.all.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/users/images/favicon.ico" for 127.0.0.1 at 2012-06-28 08:09:08 -0300
+
+ActionController::RoutingError (No route matches [GET] "/users/images/favicon.ico"):
+  
+
+Rendered /Users/franzejr/.rvm/gems/ruby-1.9.2-p320@rails3.1/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+  Processing by Devise::SessionsController#new as HTML
+Rendered devise/shared/_links.erb (0.8ms)
+Rendered devise/sessions/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 115ms (Views: 51.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/entries.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /entries.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /application.css - 304 Not Modified (10ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /active_admin.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.core.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /jquery.ui.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.theme.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /jquery.ui.theme.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.accordion.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /jquery.ui.accordion.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /jquery.ui.autocomplete.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.button.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /jquery.ui.button.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /jquery.ui.datepicker.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.dialog.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /jquery.ui.dialog.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /jquery.ui.progressbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.resizable.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /jquery.ui.resizable.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.selectable.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /jquery.ui.selectable.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.slider.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /jquery.ui.slider.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.tabs.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /jquery.ui.tabs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.base.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /jquery.ui.base.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.ui.all.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /jquery.ui.all.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /twitter/bootstrap/bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /twitter/bootstrap/bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /twitter/bootstrap/bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /twitter/bootstrap/bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /twitter/bootstrap/bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /twitter/bootstrap/bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:12 -0300
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /twitter/bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /active_admin/application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /active_admin/base.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /active_admin.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/entries.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /entries.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/idle-timeout.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /idle-timeout.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.effects.core.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.blind.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.effects.blind.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.bounce.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.effects.bounce.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.clip.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.effects.clip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.drop.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.effects.drop.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.explode.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.effects.explode.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.fade.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.effects.fade.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.fold.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.effects.fold.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.highlight.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.effects.highlight.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.pulsate.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.effects.pulsate.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.scale.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.effects.scale.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.shake.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.effects.shake.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.slide.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.effects.slide.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.transfer.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.effects.transfer.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.ui.core.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.widget.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.ui.widget.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.accordion.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.ui.accordion.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.position.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.ui.position.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.ui.autocomplete.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.button.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.ui.button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.ui.datepicker.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.dialog.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.ui.dialog.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.mouse.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.ui.mouse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.draggable.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.ui.draggable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.droppable.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.ui.droppable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.ui.progressbar.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.resizable.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.ui.resizable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.selectable.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.ui.selectable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.slider.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.ui.slider.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.sortable.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.ui.sortable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.tabs.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.ui.tabs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.all.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /jquery.ui.all.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+Served asset /application.js - 304 Not Modified (39ms)
+
+
+Started GET "/users/images/favicon.ico" for 127.0.0.1 at 2012-06-28 08:09:13 -0300
+
+ActionController::RoutingError (No route matches [GET] "/users/images/favicon.ico"):
+  
+
+Rendered /Users/franzejr/.rvm/gems/ruby-1.9.2-p320@rails3.1/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started POST "/users/sign_in" for 127.0.0.1 at 2012-06-28 08:09:19 -0300
+  Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"r1ZjWVHuoVJ/I5NE9VZNNdMXUgU70uqp2uqvF/ADv1o=", "user"=>{"email"=>"franzejr3@gmail.com", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Sign in"}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."email" = 'franzejr3@gmail.com' LIMIT 1[0m
+  [1m[35m (0.2ms)[0m  SELECT MAX("audits"."version") AS max_id FROM "audits" WHERE "audits"."auditable_id" = 1 AND "audits"."auditable_type" = 'User'
+Binary data inserted for `string` type on column `remote_address`
+  [1m[36mSQL (1.9ms)[0m  [1mINSERT INTO "audits" ("action", "associated_id", "associated_type", "auditable_id", "auditable_type", "audited_changes", "comment", "created_at", "remote_address", "user_id", "user_type", "username", "version") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["action", "update"], ["associated_id", nil], ["associated_type", nil], ["auditable_id", 1], ["auditable_type", "User"], ["audited_changes", "---\nlast_sign_in_at:\n- 2012-06-28 11:07:26.216898000Z\n- 2012-06-28 11:08:39.060732000Z\ncurrent_sign_in_at:\n- 2012-06-28 11:08:39.060732000Z\n- 2012-06-28 11:09:19.435634000Z\nsign_in_count:\n- 8\n- 9\n"], ["comment", nil], ["created_at", Thu, 28 Jun 2012 11:09:19 UTC +00:00], ["remote_address", "127.0.0.1"], ["user_id", 1], ["user_type", "User"], ["username", nil], ["version", 10]]
+  [1m[35m (0.1ms)[0m  UPDATE "users" SET "last_sign_in_at" = '2012-06-28 11:08:39.060732', "current_sign_in_at" = '2012-06-28 11:09:19.435634', "sign_in_count" = 9, "updated_at" = '2012-06-28 11:09:19.539447' WHERE "users"."id" = 1
+Redirected to http://localhost:3000/
+Completed 302 Found in 288ms
+
+
+Started GET "/" for 127.0.0.1 at 2012-06-28 08:09:19 -0300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (0.0ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = 1 LIMIT 1[0m
+Completed 200 OK in 133ms (Views: 132.3ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:19 -0300
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:19 -0300
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:19 -0300
+Served asset /active_admin.css - 304 Not Modified (9ms)
+
+
+Started GET "/assets/entries.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:19 -0300
+Served asset /entries.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:19 -0300
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:19 -0300
+Served asset /application.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/jquery.ui.core.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:19 -0300
+Served asset /jquery.ui.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.theme.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:19 -0300
+Served asset /jquery.ui.theme.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.accordion.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:19 -0300
+Served asset /jquery.ui.accordion.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:19 -0300
+Served asset /jquery.ui.autocomplete.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.button.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:19 -0300
+Served asset /jquery.ui.button.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:19 -0300
+Served asset /jquery.ui.datepicker.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.dialog.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:19 -0300
+Served asset /jquery.ui.dialog.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.progressbar.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.resizable.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.resizable.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.selectable.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.selectable.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.slider.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.slider.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.tabs.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.tabs.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.base.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.base.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.ui.all.css?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.all.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /twitter/bootstrap/bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /twitter/bootstrap/bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /twitter/bootstrap/bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /twitter/bootstrap/bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /twitter/bootstrap/bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /twitter/bootstrap/bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /twitter/bootstrap.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery-ui.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery-ui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /active_admin/application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin/base.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /active_admin/base.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/active_admin.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /active_admin.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/entries.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /entries.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/idle-timeout.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /idle-timeout.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.effects.core.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.blind.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.effects.blind.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.bounce.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.effects.bounce.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.clip.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.effects.clip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.drop.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.effects.drop.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.explode.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.effects.explode.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.fade.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.effects.fade.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.fold.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.effects.fold.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.highlight.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.effects.highlight.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.pulsate.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.effects.pulsate.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.scale.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.effects.scale.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.shake.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.effects.shake.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.slide.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.effects.slide.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.effects.transfer.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.effects.transfer.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.core.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.core.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.widget.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.widget.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.accordion.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.accordion.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.position.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.position.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.autocomplete.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.autocomplete.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.button.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.datepicker.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.datepicker.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.dialog.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.dialog.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.mouse.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.mouse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.draggable.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.draggable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.droppable.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.droppable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.progressbar.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.progressbar.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.resizable.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.resizable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.selectable.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.selectable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.slider.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.slider.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.sortable.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.sortable.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.tabs.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.tabs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.ui.all.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /jquery.ui.all.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/images/favicon.ico" for 127.0.0.1 at 2012-06-28 08:09:20 -0300
+
+ActionController::RoutingError (No route matches [GET] "/images/favicon.ico"):
+  
+
+Rendered /Users/franzejr/.rvm/gems/ruby-1.9.2-p320@rails3.1/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
