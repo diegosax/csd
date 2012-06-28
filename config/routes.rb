@@ -6,7 +6,7 @@ Csd::Application.routes.draw do
   devise_for :admin_users, ActiveAdmin::Devise.config
 
 
-  devise_for :users do
+  devise_for :users, :controllers => {:sessions => "sessions"} do
     #get "sign_in",  :to => "devise/sessions#new"
     get "sign_in",  :to => "sessions#new"
     get "sign_up",  :to => "devise/registrations#new"

@@ -3,21 +3,11 @@ class SessionsController < Devise::SessionsController
   prepend_before_filter :allow_params_authentication!, :only => :create
   prepend_before_filter { request.env["devise.skip_timeout"] = true }
 
-  # GET /resource/sign_in
-  def new
-      puts "HEUAHEUAHEUAHEUAHEUAHEUAHEUAHEAUH"
-         puts "HEUAHEUAHEUAHEUAHEUAHEUAHEUAHEAUH"
-         puts "HEUAHEUAHEUAHEUAHEUAHEUAHEUAHEAUH"
-         puts "HEUAHEUAHEUAHEUAHEUAHEUAHEUAHEAUH"
-         puts "HEUAHEUAHEUAHEUAHEUAHEUAHEUAHEAUH"
-    resource = build_resource(nil, :unsafe => true)
-    clean_up_passwords(resource)
-    respond_with(resource, serialize_options(resource))
-  end
+  #Somente defina os metodos que deseje obter um comportamento diferente, por exemplo, não defini o metodo new
+  #porque não ha nada para mudar 
 
   # POST /resource/sign_in
-  def create
-      
+  def create      
     puts "HEUAHEUAHEUAHEUAHEUAHEUAHEUAHEAUH"
     puts "HEUAHEUAHEUAHEUAHEUAHEUAHEUAHEAUH"
     puts "HEUAHEUAHEUAHEUAHEUAHEUAHEUAHEAUH"
@@ -30,8 +20,7 @@ class SessionsController < Devise::SessionsController
   end
 
   # DELETE /resource/sign_out
-  def destroy
-      
+  def destroy      
       puts "HEUAHEUAHEUAHEUAHEUAHEUAHEUAHEAUH"
       puts "HEUAHEUAHEUAHEUAHEUAHEUAHEUAHEAUH"
       puts "HEUAHEUAHEUAHEUAHEUAHEUAHEUAHEAUH"
