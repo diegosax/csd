@@ -21,6 +21,7 @@ gem 'jquery-ui-rails'
 
 gem 'devise', '1.4.9'
 gem "twitter-bootstrap-rails"
+gem "audited-activerecord"
 
 
 #Active Admin
