@@ -1,0 +1,1 @@
+include Audited::Adapters::ActiveRecord
